@@ -1,6 +1,4 @@
-Portfolio
-
-This is a Simple Python Django Portolio.
+portfolio.github.io
 
 
 
